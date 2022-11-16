@@ -1,0 +1,26 @@
+2022-11-12/20:42:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 11
+
+2022-11-12/15:57:42		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/15:59:05		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/15:59:27		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/16:35:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 11
+
+2022-11-12/16:35:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 11
+
+2022-11-12/18:55:32		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 11
+
+2022-11-12/18:55:51		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/20:22:58		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/20:26:40		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/20:29:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-12/20:29:33		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
+2022-11-14/22:56:04		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 10
+
